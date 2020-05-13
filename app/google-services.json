@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606263047909",
+    "firebase_url": "https://chatfbuser.firebaseio.com",
+    "project_id": "chatfbuser",
+    "storage_bucket": "chatfbuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606263047909:android:92c936579351ebe285c60c",
+        "android_client_info": {
+          "package_name": "com.lelab.chatfbuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606263047909-3p51hm3o0lvp057envae6g5ute1cs0ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lelab.chatfbuser",
+            "certificate_hash": "806b08282c69c1d2a22ba0a1a1f5cee57e77d761"
+          }
+        },
+        {
+          "client_id": "606263047909-gdjcehnhvfebq6trbba4lelun7vvoin3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFseeQVR_EQubv8Y3b1aFszKDC-MjcbME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606263047909-gdjcehnhvfebq6trbba4lelun7vvoin3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
